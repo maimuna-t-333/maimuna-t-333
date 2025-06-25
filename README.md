@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Maimunah Tabassum</h1>
 <h3 align="center">Frontend developer || Backend Skills in Progress</h3>
 
+<img src="https://github.com/maimuna-t-333/maimuna-t-333/blob/main/programming-1873854_1280.png">
+
 # 💫 About Me:
 I'm a frontend developer with experience in modern JavaScript, React, and responsive UI design. Currently expanding my skills into backend technologies like Node.js and MongoDB to build full-stack applications.
 
