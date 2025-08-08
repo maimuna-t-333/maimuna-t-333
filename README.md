@@ -1,3 +1,4 @@
+<img src="https://github.com/maimuna-t-333/maimuna-t-333/blob/main/programming-1873854_1280.png">
 <h1 align="center">Hello! I'm Maimunah Tabassum</h1>
 <h3 align="center">Frontend developer || Backend Skills in Progress</h3>
 
@@ -6,7 +7,7 @@
 # 💫 About Me:
 I'm a frontend developer with experience in modern JavaScript, React, and responsive UI design. Currently expanding my skills into backend technologies like Node.js and MongoDB to build full-stack applications.
 
-<img src="https://github.com/maimuna-t-333/maimuna-t-333/blob/main/programming-1873854_1280.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maimuna-t-333&label=Profile%20views&color=0e75b6&style=flat" alt="maimuna-t-333" /> </p>
 
