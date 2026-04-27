@@ -7,8 +7,8 @@
 **Frontend-focused MERN Stack Developer**
 📍 Sylhet, Bangladesh  ·  📧 maimuna.tabr@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maimunah-tabassum/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-gamma-puce-72.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maimuna.tabr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/maimuna-t-333)
 
@@ -22,9 +22,9 @@ Proficient in REST API integration, JWT authentication, responsive UI design,
 and state management. I write clean, scalable, component-based code.
 
 - 🎓 BSc in Computer Science & Engineering — Sylhet Engineering College (2024–2028)
-- 🔭 Currently building: **SmartShop** — an AI-powered e-commerce platform
+- 🔭 Currently building: **Voltcart** — an Electric gadget based e-commerce platform
 - 🌱 Currently learning: **TypeScript & advanced MongoDB**
-- 💬 Ask me about: React, Next.js, Tailwind CSS, REST APIs, Firebase
+- 💬 Ask me about: React, Next.js, Javascript, Typescript, Tailwind CSS, REST APIs, Firebase
 - 🎯 Goal: Land my first developer role and contribute to impactful products
 
 ---
