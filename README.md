@@ -58,7 +58,7 @@ and state management. I write clean, scalable, component-based code.
 
 | Project | Description | Live |
 |---|---|---|
-| [SmartShop](https://github.com/maimuna-t-333/smart-shop) | AI-powered e-commerce with voice assistant, role-based dashboards & Stripe payments | [Demo](https://smartshop-indol.vercel.app/) |
+| [SmartShop](https://github.com/NazmulhaqueD/smart-shop) | AI-powered e-commerce with voice assistant, role-based dashboards & Stripe payments | [Demo](https://smartshop-indol.vercel.app/) |
 | [Blockwise](https://github.com/maimuna-t-333/blockwise-client) | Apartment rental & management platform with JWT auth & Stripe | [Demo](https://blockwise-client.web.app/) |
 | [Share A Bite](https://github.com/maimuna-t-333/food-sharing-platform-client) | Community food sharing platform to reduce food waste | [Demo](https://food-sharing-platform-client.web.app/) |
 | [Hobby Hub](https://github.com/maimuna-t-333/hobby-hub-client) | Community platform for hobby enthusiasts | [Demo](https://hobby-hub-4cfce.web.app/) |
