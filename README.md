@@ -23,7 +23,7 @@ and state management. I write clean, scalable, component-based code.
 
 - 🎓 BSc in Computer Science & Engineering — Sylhet Engineering College (2024–2028)
 - 🔭 Currently building: **Voltcart** — an Electric gadget based e-commerce platform
-- 🌱 Currently learning: **TypeScript & advanced MongoDB**
+- 🌱 Currently learning: **TypeScript**
 - 💬 Ask me about: React, Next.js, Javascript, Typescript, Tailwind CSS, REST APIs, Firebase
 - 🎯 Goal: Land my first developer role and contribute to impactful products
 
