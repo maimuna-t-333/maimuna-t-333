@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="programming-1873854_1280.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/maimuna-t-333/maimuna-t-333/main/programming-1873854_1280.png" width="100%"/>
 </div>
 
 # Hi, I'm Maimunah Tabassum 👋
