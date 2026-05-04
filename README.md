@@ -76,7 +76,7 @@ and state management. I write clean, scalable, component-based code.
 | [Blockwise](https://github.com/maimuna-t-333/blockwise-client) | Apartment rental & management platform with JWT auth & Stripe | [Demo](https://blockwise-client.web.app/) |
 | [Share A Bite](https://github.com/maimuna-t-333/food-sharing-platform-client) | Community food sharing platform to reduce food waste | [Demo](https://food-sharing-platform-client.web.app/) |
 | [Hobby Hub](https://github.com/maimuna-t-333/hobby-hub-client) | Community platform for hobby enthusiasts | [Demo](https://hobby-hub-4cfce.web.app/) |
-
+| Voltcart *(coming soon)* | Electric gadget e-commerce platform — currently in development | 🔧 Building |
 ---
 
 ## 📊 GitHub Stats
