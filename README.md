@@ -26,7 +26,7 @@ and state management. I write clean, scalable, component-based code.
 - 🌱 Currently learning: **Advanced Next.js**
 - 💬 Ask me about: React, Next.js, Javascript, Typescript, Tailwind CSS, REST APIs, Firebase
 - 🎯 Goal: Build impactful products and contribute to great engineering teams
-
+- 📫 How to reach me: [maimunah-portfolio-livid.vercel.app](https://maimunah-portfolio-livid.vercel.app)
 ---
 
 ## 🛠️ Tech Stack
